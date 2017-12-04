@@ -1,0 +1,16 @@
+.offPeak
+{
+	color: #009933;	
+}
+
+.midPeak{
+	color: #CDCC00;
+}
+.fixed{
+	position: fixed;
+    top: 40px;
+    right: 0px;        
+}
+.onPeak{
+	color: #CC6600;
+}	
